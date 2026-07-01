@@ -13,14 +13,12 @@ Here are some infos about me:
 - 🤔 I’m looking for help with Data structures and Algorithm
 - 💬 Ask me about Anything
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zeruf5.com)](mailto:zeruf5@gmail.com)
-- ⚡ Fun fact: Doesn't like programmer's lifestyle
 
 <h2><strong> Tech and Tools Preference </Strong></h2>
 <h3><strong> Languages and Tools: </strong>  </h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -55,7 +53,7 @@ Here are some infos about me:
   <a href="https://www.linkedin.com/in/zerubabel-firew-431378235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.t.me/Ye_Kirkosu">
+  <a href="https://www.t.me/Ye_Kirkos">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.instagram.com/zeru_f5/">
